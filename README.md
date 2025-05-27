@@ -21,21 +21,24 @@ To address ShopEasy’s declining engagement and conversion rates, a comprehensi
 # Tools
 
 **PostgreSQL**
-•	Version : PostgreSQL 16 , Windows 11 
 
-•	Description: PostgreSQL is a powerful, open-source object-relational database system known for its reliability, feature robustness, and standards compliance.
+•	**Version** : PostgreSQL 16 , Windows 11 
+
+•	**Description**: PostgreSQL is a powerful, open-source object-relational database system known for its reliability, feature robustness, and standards compliance.
 
 **Jupyter Notebook**
-•	Version : JupyterLab 4.0 / Notebook 7.1 (Latest release in 2025)
 
-•	Python Version: Python 3.11
+• **Version** : JupyterLab 4.0 / Notebook 7.1 (Latest release in 2025)
 
-•	Description: Jupyter Notebook provides an interactive environment for writing and running code, visualizing data, and documenting analysis.
+•	**Python Version**: Python 3.11
+
+•	**Description**: Jupyter Notebook provides an interactive environment for writing and running code, visualizing data, and documenting analysis.
 
 **Power BI Desktop**
-•	Version : Power BI Desktop May 2025 Update (Version 2.128.x)
 
-•	Description: Power BI is a business analytics tool that enables data transformation, modeling, and rich interactive visualizations.
+•	**Version** : Power BI Desktop May 2025 Update (Version 2.128.x)
+
+•	**Description**: Power BI is a business analytics tool that enables data transformation, modeling, and rich interactive visualizations.
 
 # Overview
 
