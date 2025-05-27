@@ -9,10 +9,14 @@ ShopEasy, a growing online retail business, has been facing challenges with its 
 To address ShopEasy’s declining engagement and conversion rates, a comprehensive set of datasets was analyzed, covering customer behavior, product feedback, and marketing interaction metrics. The analysis incorporated the following key data sources:
 
 **Customer Data** : Contains demographic and behavioral information about ShopEasy’s users, including user ID, location, and registration details.
+
 **Customer Journey Data** : Tracks each customer's interactions across the conversion funnel, helping to identify where drop-offs occur.
+
 **Engagement Metrics** : Includes performance data on marketing content—such as clicks, likes, and impressions—critical for assessing campaign effectiveness.
+
 **Product Information** : Provides details about items listed on ShopEasy, used to correlate product-level insights with customer feedback and conversion rates.
-**Customer Reviews and Sentiment Scores** : Contains user-submitted product reviews, used to extract sentiment and identify common praise or complaints. Pre-processed sentiment analysis results quantifying customer sentiment into positive, neutral, or negative categories.
+
+**Customer Reviews and Sentiment Scores** : Contains user-submitted product reviews, used to extract sentiment and identify common praise or complaints. Pre-processed sentiment                                             analysis results quantifying customer sentiment into positive, neutral, or negative categories.
 
 # Tools
 
@@ -28,4 +32,10 @@ To address ShopEasy’s declining engagement and conversion rates, a comprehensi
 **Power BI Desktop**
 •	Version : Power BI Desktop May 2025 Update (Version 2.128.x)
 •	Description: Power BI is a business analytics tool that enables data transformation, modeling, and rich interactive visualizations.
+
+# Overview
+
+The Marketing Manager at ShopEasy has reported ongoing challenges with the effectiveness of recent marketing campaigns. Despite increased investment, the company has experienced a decline in both customer engagement and conversion rates, leading to a disappointing return on investment. To address this issue, a comprehensive data analysis is requested to evaluate the performance of current marketing strategies and identify areas for improvement. ShopEasy has collected extensive data from multiple sources, including customer reviews, social media interactions, and campaign performance metrics. A thorough analysis of this data is expected to uncover actionable insights that can help optimize marketing efforts and improve overall outcomes.
+
+# Anaysis and Decisions
 
