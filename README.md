@@ -66,3 +66,4 @@ To address ShopEasy’s challenges of declining customer engagement and conversi
 
 This analysis transformed raw marketing data into actionable insights, leading to targeted decisions that align with ShopEasy’s business goals and drive measurable improvements in ROI.
 
+
