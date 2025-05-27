@@ -46,24 +46,17 @@ The Marketing Manager at ShopEasy has reported ongoing challenges with the effec
 
 # Anaysis and Decisions
 
-To address ShopEasy’s challenges of declining customer engagement and conversion rates, a comprehensive data-driven analysis was conducted using SQL, Python (Jupyter Notebook), and Power BI. The goal was to diagnose underperformance and identify actionable strategies for improvement.
+The primary challenge identified in this project was ShopEasy’s declining customer engagement and conversion rates, despite increased marketing investments. Using SQL, Python, and Power BI, a comprehensive analysis was conducted on customer behavior, marketing performance, and sentiment data from customer reviews.
 
-**Key Findings** 
+Key findings revealed that although the click-through rate stood at a healthy 15.37%, overall views and interactions steadily declined after mid-year. Conversion rates fluctuated significantly, with a peak in January (16.5%) driven by Ski Boots, and a low in October (6.0%), indicating clear seasonal trends and performance gaps. Customer feedback was largely positive—84% of reviews had positive sentiment—but some products consistently underperformed, receiving ratings below 3.5.
 
-**Conversion Rate Trends**: Conversion rates fluctuated throughout the year.January showed the highest rate (16.5%) due to seasonal demand.October recorded the lowest (6.0%), indicating a need for mid-year campaign revisions.
+Based on these insights, **three strategic areas for action were defined**:
 
-**Customer Engagement**: Views peaked in February and July but dropped significantly from August onward.Despite low clicks and likes, the click-through rate (CTR) remained strong at 15.37%, indicating quality engagement from a smaller audience.Blog content outperformed other formats, especially in April and July.
+Increase Conversion Rates by focusing on high-performing products, leveraging peak seasons with targeted campaigns, and refining the conversion funnel to reduce drop-offs.
 
-**Customer Feedback & Sentiment**: Most reviews were positive (840), but a few products consistently received ratings below 3.5.Sentiment analysis highlighted areas where product improvement and customer service follow-up could elevate satisfaction.
+Enhance Customer Engagement by revitalizing content strategies, implementing interactive formats, and optimizing calls to action during low-engagement months.
 
-**Strategic Decisions**
+Improve Feedback Scores through structured feedback loops, addressing mixed reviews, and following up with dissatisfied customers to improve brand perception.
 
-**Boost Conversion Rates**: Focus on top-performing products (e.g., Ski Boots, Hockey Sticks).Deploy seasonal campaigns and optimize drop-off points in the conversion funnel.
-
-**Improve Engagement**: Introduce interactive and user-generated content.Strengthen calls-to-action, especially in low-performing months.
-
-**Elevate Feedback Scores**: Address concerns in mixed and negative reviews.Follow up with dissatisfied customers to improve ratings and loyalty.
-
-This analysis transformed raw marketing data into actionable insights, leading to targeted decisions that align with ShopEasy’s business goals and drive measurable improvements in ROI.
-
+These recommendations aim to align ShopEasy’s marketing strategies more closely with customer expectations and behavior.
 
