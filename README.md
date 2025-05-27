@@ -60,3 +60,26 @@ Improve Feedback Scores through structured feedback loops, addressing mixed revi
 
 These recommendations aim to align ShopEasy’s marketing strategies more closely with customer expectations and behavior.
 
+# Conclusion 
+
+As a data analyst, this project not only deepened my technical skills across tools like PostgreSQL, Python (for sentiment analysis), and Power BI, but also taught me how to transform raw data into business value. It reinforced the importance of contextual storytelling, customer-centric insights, and data-driven decision-making in modern marketing optimization.
+
+# Reference 
+
+**Marketing Strategy** : https://www.domo.com/learn/article/the-three-components-of-a-successful-marketing-analytics-strategy
+
+**Sentiment analysis** : https://sproutsocial.com/insights/sentiment-analysis-marketing/
+
+**Python for analysis** : https://www.geeksforgeeks.org/pandas-and-numpy-exercies-for-data-analysis/
+
+**SQL Database create** : https://www.w3schools.com/sql/sql_create_db.asp
+
+**Power BI report making** : https://interworks.com/blog/2024/07/10/how-to-build-a-report-in-power-bi-desktop/
+
+# Contact
+
+**Email Address** : bhattacharyyaarun2001@gmail.com
+
+**Linkdin Profile** : https://www.linkedin.com/in/arunabha2024/
+
+
