@@ -1,0 +1,21 @@
+﻿ProductID,ProductName,PriceCategory,Price
+1,Running Shoes,High,224
+2,Fitness Tracker,Medium,197
+3,Yoga Mat,High,485
+4,Dumbbells,Low,26
+5,Soccer Ball,Low,41
+6,Tennis Racket,Low,36
+7,Basketball,High,225
+8,Football Helmet,Low,45
+9,Baseball Glove,High,327
+10,Golf Clubs,Medium,82
+11,Ski Boots,High,340
+12,Ice Skates,Low,38
+13,Swim Goggles,Medium,146
+14,Cycling Helmet,High,472
+15,Climbing Rope,High,410
+16,Kayak,High,259
+17,Surfboard,High,275
+18,Volleyball,Low,43
+19,Hockey Stick,Medium,174
+20,Boxing Gloves,High,262
