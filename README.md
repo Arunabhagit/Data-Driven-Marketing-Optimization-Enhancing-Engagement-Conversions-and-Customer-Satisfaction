@@ -80,6 +80,6 @@ As a data analyst, this project not only deepened my technical skills across too
 
 **Email Address** : bhattacharyyaarun2001@gmail.com
 
-**Linkdin Profile** : https://www.linkedin.com/in/arunabha2024/
+**Linkedin Profile** : https://www.linkedin.com/in/arunabha2024/
 
 
