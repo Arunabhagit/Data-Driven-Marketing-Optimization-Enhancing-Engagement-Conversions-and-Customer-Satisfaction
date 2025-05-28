@@ -48,7 +48,7 @@ The Marketing Manager at ShopEasy has reported ongoing challenges with the effec
 
 The primary challenge identified in this project was ShopEasy’s declining customer engagement and conversion rates, despite increased marketing investments. Using SQL, Python, and Power BI, a comprehensive analysis was conducted on customer behavior, marketing performance, and sentiment data from customer reviews.
 
-Key findings revealed that although the click-through rate stood at a healthy **15.37%**, overall views and interactions steadily declined after mid-year. Conversion rates fluctuated significantly, with a peak in January (16.5%) driven by Ski Boots, and a low in October (6.0%), indicating clear seasonal trends and performance gaps. Customer feedback was largely positive **84%** of reviews had positive sentiment—but some products consistently underperformed, receiving ratings below 3.5.
+Key findings revealed that although the click-through rate stood at a healthy **15.37%**, overall views and interactions steadily declined after mid-year. Conversion rates fluctuated significantly, with a peak in January **(16.5%)** driven by Ski Boots, and a low in October **(6.0%)**, indicating clear seasonal trends and performance gaps. Customer feedback was largely positive **84%** of reviews had positive sentiment—but some products consistently underperformed, receiving ratings below **3.5**.
 
 Based on these insights, **three strategic areas for action were defined**:
 
